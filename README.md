@@ -1,3 +1,4 @@
 # PHP CRUD Operations
 
-İlk defa calıştıracaksanız. Database'deki kurulum için **/init/index.php** dosyasını çalıştırın.
+
+Her klasördeki ayrı bir projedir. Gerekli ayarlar ve açıklamalar klasör içindeki README.dm dosyasında yazılıdır.
